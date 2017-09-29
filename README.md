@@ -3,7 +3,7 @@ To install this app you must have python 3.4 and django
 Steps to run this Django project
 1 :- Download this project
 2 :- open cmd
-3 :- go to the location where you saved this project(in cmd )
+3 :- go to the location where you saved this project(through cmd )
 4 :- open brijlala folder (in cmd)
 5 :- run these commands
   a :- python manage.py migrate
