@@ -1,4 +1,4 @@
-# patient informaion system
+# patient information system
 To install this app you must have python 3.4 and django 
 Steps to run this Django project
 1 :- Download this project
